@@ -1,0 +1,17 @@
+{
+  "generations": [
+    [
+      {
+        "text": "J'adore la programmation.",
+        "message": { "text": "J'adore la programmation." }
+      }
+    ]
+  ],
+  "llmOutput": {
+    "tokenUsage": {
+      "completionTokens": 8,
+      "promptTokens": 28,
+      "totalTokens": 36
+    }
+  }
+}
