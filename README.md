@@ -1,4 +1,4 @@
-# LangChain-GPT
+# Langchain-Site-Tutorial
 
 This is a TS code demonstration repository for the [LangChain](https://js.langchain.com/docs/getting-started/guide-chat) official website.
 
